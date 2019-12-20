@@ -6,7 +6,7 @@
 
 课程直播地址：<https://www.douyu.com/topjavacoder>
 
-## 课程相关项目
+## 课程相关项目地址
 
 - <https://github.com/cnJun/java-les-maven-example>
 
